@@ -23,5 +23,4 @@ author='Ayushi',
 author_email='ayushi7453gupta@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
-
 )
